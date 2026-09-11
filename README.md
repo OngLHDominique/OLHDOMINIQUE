@@ -2,7 +2,7 @@
 OLHDOMINIQUE/OLHDOMINIQUE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
-ABOUT ME...
+ABOUT ME... \n
 Hi, I’m Dominique!
 - I am currently pursuing a double major in Digital Systems Security and Cyber Security.
 - Interested in programming and all things related to security.
@@ -14,5 +14,5 @@ Hi, I’m Dominique!
   - HTML/CSS/JavaScript/XML/JSON
   - mySQL/PostgreSQL/MongoDB
 
-How to reach me ...
+How to reach me ... \n
 Just drop me a request and we can start talking from there!
