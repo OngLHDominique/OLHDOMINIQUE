@@ -10,6 +10,7 @@ Hi, I’m Dominique!
 - Programming Languages that I am familiar with:
   - Python
   - Java
+  - C++
   - HTML/CSS/JavaScript/XML/JSON
   - mySQL/PostgreSQL/MongoDB
 
